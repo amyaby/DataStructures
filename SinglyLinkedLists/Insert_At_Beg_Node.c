@@ -1,0 +1,4 @@
+void insertAtBeginning(struct Node** )
+{
+
+}
